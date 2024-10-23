@@ -2,7 +2,7 @@
 
 ## Objective:
 
-*   Analyse the impact of events on hotel performance metrics using the provided datasets. Candidates are expected to explore the relationship between event characteristics (e.g., type, location, expected attendance) and key hotel performance indicators (occupancy rates, ARR, and number of guests). Based on the insights gathered, develop a predictive model that forecasts future hotel performance metrics, leveraging information on upcoming events.
+*   Analyse the impact of events on hotel performance metrics using the provided datasets. Explore the relationship between event characteristics (e.g., type, location, expected attendance) and key hotel performance indicators (occupancy rates, ARR, and number of guests). Based on the insights gathered, develop a predictive model that forecasts future hotel performance metrics, leveraging information on upcoming events.
 
 ##   
 
@@ -35,19 +35,7 @@
 | Domestic Guests | Number of domestic guests staying in the hotel |
 | International Guests | Number of international guests staying in the hotel |
 
-##   
-
-## Deliverables:
-
-1.  A Jupyter notebook (or equivalent) with clean, well-documented code that explains each step of the data analysis and model-building process.
-2.  A report (in PDF or PowerPoint) summarizing:
-    *   Data exploration and cleaning steps
-    *   Key insights from the analysis of event impacts on hotel performance
-    *   The approach and reasoning behind the chosen predictive model
-    *   Recommendations based on the analysis and model results
-3.  The trained predictive model along with evaluation metrics, such as accuracy, RMSE, or other relevant performance measures.
-
-## Evaluation Criteria:
+## Roadmap
 
 1.  Data cleaning and preprocessing:
     *   Effectiveness in handling missing or inconsistent data
@@ -63,5 +51,3 @@
     *   Clarity and organization of the report
     *   Ability to explain technical aspects to non-technical stakeholders
     *   Overall professionalism in the presentation of findings
-5.  Bonus (Optional):
-    *   Additional points for including a "what-if" analysis (e.g., simulating the impact of hypothetical events on hotel performance).
